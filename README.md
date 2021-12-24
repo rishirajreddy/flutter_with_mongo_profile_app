@@ -3,14 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+==>This project is build using Flutter and NodeJS and MongoDB as a database. 
+==>It uses JWT authetication to authenticate a user.
+==>In this app, a user can create his/her profile by simply loginng into the app.
+==>The app uses back-end service written in NodeJS and Express that is deployed to heroku.
+==>The repo link to the back-end part can be find in the below link:
+https://github.com/rishirajreddy/blogApp-node-mongo
